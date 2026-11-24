@@ -1,0 +1,18 @@
+{
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "attention": "sdpa",
+  "slots": 8,
+  "image_min_pixels": 4096,
+  "image_max_pixels": 2109744,
+  "max_sequence_tokens": 24576,
+  "max_new_tokens": 1024,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0,
+  "lora_use_rslora": true,
+  "learning_rate": 1e-05,
+  "weight_decay": 0.01,
+  "seed": 42,
+  "supervision": "full",
+  "format": "action"
+}

@@ -1,0 +1,1 @@
+The base models and their libraries retain their upstream licenses. Qwen3-VL uses Apache-2.0; see THIRD_PARTY_LICENSE_APACHE_2_0.txt. This repository does not redistribute base model weights or datasets.
