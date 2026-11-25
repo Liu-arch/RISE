@@ -4,7 +4,7 @@
 
 RISE uses eight learned implicit states to condition GUI action generation without generating intermediate reasoning text. Full supervision combines action learning with reasoning-state, action-distribution and reasoning-to-action boundary alignment.
 
-[Model weights](https://huggingface.co/L1007555652/RISE)
+[Paper](https://arxiv.org/abs/2611.32102) | [Model weights](https://huggingface.co/L1007555652/RISE)
 
 ## Setup
 
